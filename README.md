@@ -2,6 +2,9 @@
 
 # WIP. This isn't meant to be used yet.
 
+This is my fork.  I will be exploring it and possibly modifying it for my own dastardly purposes.
+Mainly I aim to get the features I need stable enough to make a finished product with.
+
 Ember is a UI library for [Pygame CE](https://github.com/pygame-community/pygame-ce). Learn how to get started on the [docs page](https://ember-ui.readthedocs.io/en/latest/index.html).
 
 # Installation
